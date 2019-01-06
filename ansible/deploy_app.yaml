@@ -1,6 +1,7 @@
 ---
 - name: deployment
   hosts: hosts
+  remote_user: johannes_esbjornsson
   become: true
   roles: 
     - docker
