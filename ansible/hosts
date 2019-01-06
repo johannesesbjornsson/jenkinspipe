@@ -1,0 +1,2 @@
+[hosts]
+35.242.187.163 ansible_python_interpreter=/usr/bin/python3
